@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Science student<br>- Front-End Developer</p>
+<p align="left">- Computer Science Student<br>- Front-End Developer</p>
 
 ###
 
